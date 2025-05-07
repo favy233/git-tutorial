@@ -1,4 +1,2 @@
-*.js
-*.css
+/style.css
 index.js
-style.css
